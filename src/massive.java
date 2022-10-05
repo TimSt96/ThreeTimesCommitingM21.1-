@@ -9,7 +9,7 @@ public class massive {
             value++; // - увеличиваем value на 1 каждый раз (5, 6, 7, ..., 15)
         }
         for (int i = 0; i < array.length; i++) { // обходим весь массив, начиная с 0-го индекса, с исполнением println
-            System.out.println(array[i]); //печатаем элемент мас_for_commit_changes_сива
+            System.out.println(array[i]); //печатаем элемент мас_for_commit_with_bug_fix_direction_changes_сива
         }
     }
 }
